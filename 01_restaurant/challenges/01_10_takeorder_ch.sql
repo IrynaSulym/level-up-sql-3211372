@@ -7,3 +7,6 @@
 -- 1 Tropical Blue Smoothie
 -- Delivery date and time: September 20, 2022 @ 2PM (14:00)
 -- There are no taxes or other fees.
+SELECT * FROM Customers
+
+INSERT INTO Customers
